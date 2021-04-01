@@ -1,7 +1,10 @@
+""" main module """
+
 import sys
 
 
 def main() -> int:
+    """ main function """
     print("Hello, world!")
 
     return 0
