@@ -1,0 +1,6 @@
+.dockerignore
+.git/
+.gitattributes
+.gitignore
+Pipfile.lock
+scripts/
